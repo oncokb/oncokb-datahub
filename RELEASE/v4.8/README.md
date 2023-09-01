@@ -3,7 +3,9 @@
 ## Related releases
 
 ## Data changes
+
 ### Gene
+
 ```
 ACVR1B Gene Summary Updated
 ACVR1B Gene Background Updated
@@ -85,6 +87,7 @@ ZMYM3 Gene Background Updated
 ```
 
 ### Alteration
+
 ```
 ARHGEF12 Gene Type Updated
 ARHGEF12 Deletion Added
@@ -95,7 +98,7 @@ BRCA1 V1736I Added
 BRCA1 D1733Y Added
 CD19 Gene Type Updated
 CHD2 Gene Type Updated
-CHD2 Truncating Mutation Added
+CHD2 Truncating Mutations Added
 COL2A1 Gene Type Updated
 COL2A1 G1170S Added
 DNM2 Amplification Added
@@ -181,7 +184,7 @@ MLH3 G933C Added
 MLH3 W1276R Added
 MLH3 A1394T Added
 MLH3 E1451K Added
-MLH3 Truncating Mutation Added
+MLH3 Truncating Mutations Added
 NRAS G12R, Mutation Effect Description Updated
 NRAS G13D, Mutation Effect Description Updated
 NRAS T58I, Mutation Effect Description Updated
@@ -241,8 +244,8 @@ ZMYM3 Truncating Mutations Added
 ```
 
 ### Evidence
+
 ```
 ERBB2 Amplification, Breast Cancer, Trastuzumab Deruxtecan  Updated
 RET Fusions, Non-Small Cell Lung Cancer, Pralsetinib  Updated
 ```
-
