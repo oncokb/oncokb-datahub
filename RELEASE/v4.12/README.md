@@ -147,4 +147,3 @@ ROS1 Fusions, Other Tumor Types, Tumor Type Summary Updated
 ROS1 Fusions, Non-Small Cell Lung Cancer, Repotrectinib  Updated
 ROS1 Fusions, Non-Small Cell Lung Cancer, Repotrectinib 3A Deleted
 ```
-
